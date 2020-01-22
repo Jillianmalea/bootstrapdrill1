@@ -1,0 +1,6 @@
+.container{
+    background-color: lightblue;
+height: 500px;
+}
+
+/* using container blocked some of it's area, using container-fluid blocked the whole thing   left-right/*
